@@ -1,0 +1,191 @@
+Electric Version 8.05
+--------------- 0 --------------
+  Fri Feb 07 15:42:52 EST 2020
+Menu Activated: File | Open Library...
+--------------- 1 --------------
+  Fri Feb 07 15:45:37 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 2 --------------
+  Fri Feb 07 15:46:52 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 3 --------------
+  Fri Feb 07 15:47:38 EST 2020
+ProcessKeyBinding 401 when=1581108458490 modifiers=0 code=56 char=76(v) false false
+--------------- 4 --------------
+  Fri Feb 07 15:47:38 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 5 --------------
+  Fri Feb 07 15:47:38 EST 2020
+ProcessKeyBinding 400 when=1581108458490 modifiers=0 code=0 char=76(v) false false
+--------------- 6 --------------
+  Fri Feb 07 15:47:38 EST 2020
+ProcessKeyBinding 402 when=1581108458602 modifiers=0 code=56 char=76(v) false false
+--------------- 7 --------------
+  Fri Feb 07 15:47:45 EST 2020
+ProcessKeyBinding 401 when=1581108465787 modifiers=0 code=56 char=76(v) false false
+--------------- 8 --------------
+  Fri Feb 07 15:47:45 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 9 --------------
+  Fri Feb 07 15:47:46 EST 2020
+ProcessKeyBinding 400 when=1581108465787 modifiers=0 code=0 char=76(v) false false
+--------------- 10 --------------
+  Fri Feb 07 15:47:46 EST 2020
+ProcessKeyBinding 402 when=1581108465871 modifiers=0 code=56 char=76(v) false false
+--------------- 11 --------------
+  Fri Feb 07 15:47:53 EST 2020
+ProcessKeyBinding 401 when=1581108473617 modifiers=0 code=56 char=76(v) false false
+--------------- 12 --------------
+  Fri Feb 07 15:47:53 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 13 --------------
+  Fri Feb 07 15:47:53 EST 2020
+ProcessKeyBinding 400 when=1581108473617 modifiers=0 code=0 char=76(v) false false
+--------------- 14 --------------
+  Fri Feb 07 15:47:55 EST 2020
+ProcessKeyBinding 402 when=1581108475102 modifiers=0 code=a char=a false false
+--------------- 15 --------------
+  Fri Feb 07 15:48:02 EST 2020
+ProcessKeyBinding 401 when=1581108482751 modifiers=0 code=56 char=76(v) false false
+--------------- 16 --------------
+  Fri Feb 07 15:48:02 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 17 --------------
+  Fri Feb 07 15:48:03 EST 2020
+ProcessKeyBinding 400 when=1581108482751 modifiers=0 code=0 char=76(v) false false
+--------------- 18 --------------
+  Fri Feb 07 15:48:03 EST 2020
+ProcessKeyBinding 402 when=1581108482860 modifiers=0 code=56 char=76(v) false false
+--------------- 19 --------------
+  Fri Feb 07 15:48:13 EST 2020
+ProcessKeyBinding 401 when=1581108493080 modifiers=0 code=47 char=67(g) false false
+--------------- 20 --------------
+  Fri Feb 07 15:48:13 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 21 --------------
+  Fri Feb 07 15:48:13 EST 2020
+ProcessKeyBinding 400 when=1581108493080 modifiers=0 code=0 char=67(g) false false
+--------------- 22 --------------
+  Fri Feb 07 15:48:13 EST 2020
+ProcessKeyBinding 402 when=1581108493201 modifiers=0 code=47 char=67(g) false false
+--------------- 23 --------------
+  Fri Feb 07 15:48:15 EST 2020
+ProcessKeyBinding 401 when=1581108495841 modifiers=0 code=47 char=67(g) false false
+--------------- 24 --------------
+  Fri Feb 07 15:48:15 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 25 --------------
+  Fri Feb 07 15:48:16 EST 2020
+ProcessKeyBinding 400 when=1581108495841 modifiers=0 code=0 char=67(g) false false
+--------------- 26 --------------
+  Fri Feb 07 15:48:16 EST 2020
+ProcessKeyBinding 402 when=1581108495940 modifiers=0 code=47 char=67(g) false false
+--------------- 27 --------------
+  Fri Feb 07 15:48:36 EST 2020
+ProcessKeyBinding 401 when=1581108515997 modifiers=0 code=56 char=76(v) false false
+--------------- 28 --------------
+  Fri Feb 07 15:48:36 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 29 --------------
+  Fri Feb 07 15:48:36 EST 2020
+ProcessKeyBinding 400 when=1581108515997 modifiers=0 code=0 char=76(v) false false
+--------------- 30 --------------
+  Fri Feb 07 15:48:36 EST 2020
+ProcessKeyBinding 402 when=1581108516079 modifiers=0 code=56 char=76(v) false false
+--------------- 31 --------------
+  Fri Feb 07 15:48:47 EST 2020
+ProcessKeyBinding 401 when=1581108527437 modifiers=0 code=56 char=76(v) false false
+--------------- 32 --------------
+  Fri Feb 07 15:48:47 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 33 --------------
+  Fri Feb 07 15:48:47 EST 2020
+ProcessKeyBinding 400 when=1581108527437 modifiers=0 code=0 char=76(v) false false
+--------------- 34 --------------
+  Fri Feb 07 15:48:47 EST 2020
+ProcessKeyBinding 402 when=1581108527532 modifiers=0 code=56 char=76(v) false false
+--------------- 35 --------------
+  Fri Feb 07 15:48:54 EST 2020
+ProcessKeyBinding 401 when=1581108534923 modifiers=0 code=56 char=76(v) false false
+--------------- 36 --------------
+  Fri Feb 07 15:48:54 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 37 --------------
+  Fri Feb 07 15:48:55 EST 2020
+ProcessKeyBinding 400 when=1581108534923 modifiers=0 code=0 char=76(v) false false
+--------------- 38 --------------
+  Fri Feb 07 15:48:55 EST 2020
+ProcessKeyBinding 402 when=1581108534990 modifiers=0 code=56 char=76(v) false false
+--------------- 39 --------------
+  Fri Feb 07 15:49:03 EST 2020
+ProcessKeyBinding 401 when=1581108543777 modifiers=0 code=47 char=67(g) false false
+--------------- 40 --------------
+  Fri Feb 07 15:49:03 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal Low at Main Time
+--------------- 41 --------------
+  Fri Feb 07 15:49:04 EST 2020
+ProcessKeyBinding 400 when=1581108543777 modifiers=0 code=0 char=67(g) false false
+--------------- 42 --------------
+  Fri Feb 07 15:49:04 EST 2020
+ProcessKeyBinding 402 when=1581108543891 modifiers=0 code=47 char=67(g) false false
+--------------- 43 --------------
+  Fri Feb 07 15:49:22 EST 2020
+ProcessKeyBinding 401 when=1581108562142 modifiers=0 code=56 char=76(v) false false
+--------------- 44 --------------
+  Fri Feb 07 15:49:22 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Set Signal High at Main Time
+--------------- 45 --------------
+  Fri Feb 07 15:49:22 EST 2020
+ProcessKeyBinding 400 when=1581108562142 modifiers=0 code=0 char=76(v) false false
+--------------- 46 --------------
+  Fri Feb 07 15:49:29 EST 2020
+java.lang.NumberFormatException: For input string: "4a"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Long.parseLong(Long.java:589)
+	at java.lang.Long.parseLong(Long.java:631)
+	at com.sun.electric.tool.simulation.als.ALS.makeThemThus(als.java:920)
+	at com.sun.electric.tool.simulation.als.ALS.setSignalHigh(als.java:465)
+	at com.sun.electric.tool.simulation.Simulation.setSignalHigh(Simulation.java:413)
+	at com.sun.electric.tool.user.menus.ToolMenu$13.run(ToolMenu.java:202)
+	at com.sun.electric.tool.user.menus.EMenuItem.actionPerformed(EMenuItem.java:326)
+	at com.sun.electric.tool.user.ui.KeyBindings.actionPerformed(KeyBindings.java:162)
+	at com.sun.electric.tool.user.KeyBindingManager.processKeyEvent(KeyBindingManager.java:425)
+	at com.sun.electric.tool.user.menus.EMenuBar$Instance.processKeyBinding(EMenuBar.java:311)
+	at javax.swing.KeyboardManager.fireBinding(KeyboardManager.java:307)
+	at javax.swing.KeyboardManager.fireKeyboardAction(KeyboardManager.java:293)
+	at javax.swing.JComponent.processKeyBindingsForAllComponents(JComponent.java:2974)
+	at javax.swing.JComponent.processKeyBindings(JComponent.java:2966)
+	at javax.swing.JComponent.processKeyEvent(JComponent.java:2845)
+	at java.awt.Component.processEvent(Component.java:6316)
+	at java.awt.Container.processEvent(Container.java:2239)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1954)
+	at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:834)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1102)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:973)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:799)
+	at java.awt.Component.dispatchEventImpl(Component.java:4760)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at com.sun.electric.tool.user.UserInterfaceMain$EventProcessor.dispatchEvent(UserInterfaceMain.java:843)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)

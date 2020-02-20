@@ -1,0 +1,1036 @@
+Electric Version 8.05
+--------------- 0 --------------
+  Tue Feb 11 10:38:22 EST 2020
+Menu Activated: File | Open Library...
+--------------- 1 --------------
+  Tue Feb 11 10:38:38 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 2 --------------
+  Tue Feb 11 10:38:48 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 3 --------------
+  Tue Feb 11 10:39:03 EST 2020
+ProcessKeyBinding 401 when=1581435543250 modifiers=80 code=11 char=ffff false false
+--------------- 4 --------------
+  Tue Feb 11 10:39:03 EST 2020
+ProcessKeyBinding 401 when=1581435543720 modifiers=80 code=36 char=36(6) false false
+--------------- 5 --------------
+  Tue Feb 11 10:39:03 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 6 --------------
+  Tue Feb 11 10:39:03 EST 2020
+ProcessKeyBinding 400 when=1581435543720 modifiers=80 code=0 char=36(6) false false
+--------------- 7 --------------
+  Tue Feb 11 10:39:03 EST 2020
+ProcessKeyBinding 402 when=1581435543793 modifiers=80 code=36 char=36(6) false false
+--------------- 8 --------------
+  Tue Feb 11 10:39:04 EST 2020
+ProcessKeyBinding 402 when=1581435544311 modifiers=0 code=11 char=ffff false false
+--------------- 9 --------------
+  Tue Feb 11 10:39:15 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 10 --------------
+  Tue Feb 11 10:39:18 EST 2020
+ProcessKeyBinding 401 when=1581435558172 modifiers=80 code=11 char=ffff false false
+--------------- 11 --------------
+  Tue Feb 11 10:39:19 EST 2020
+ProcessKeyBinding 401 when=1581435559485 modifiers=80 code=36 char=36(6) false false
+--------------- 12 --------------
+  Tue Feb 11 10:39:19 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 13 --------------
+  Tue Feb 11 10:39:19 EST 2020
+ProcessKeyBinding 400 when=1581435559485 modifiers=80 code=0 char=36(6) false false
+--------------- 14 --------------
+  Tue Feb 11 10:39:19 EST 2020
+ProcessKeyBinding 402 when=1581435559591 modifiers=80 code=36 char=36(6) false false
+--------------- 15 --------------
+  Tue Feb 11 10:39:19 EST 2020
+ProcessKeyBinding 401 when=1581435559683 modifiers=80 code=36 char=36(6) false false
+--------------- 16 --------------
+  Tue Feb 11 10:39:19 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 17 --------------
+  Tue Feb 11 10:39:19 EST 2020
+ProcessKeyBinding 400 when=1581435559683 modifiers=80 code=0 char=36(6) false false
+--------------- 18 --------------
+  Tue Feb 11 10:39:19 EST 2020
+ProcessKeyBinding 402 when=1581435559775 modifiers=80 code=36 char=36(6) false false
+--------------- 19 --------------
+  Tue Feb 11 10:39:20 EST 2020
+ProcessKeyBinding 401 when=1581435560073 modifiers=80 code=36 char=36(6) false false
+--------------- 20 --------------
+  Tue Feb 11 10:39:20 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 21 --------------
+  Tue Feb 11 10:39:20 EST 2020
+ProcessKeyBinding 400 when=1581435560073 modifiers=80 code=0 char=36(6) false false
+--------------- 22 --------------
+  Tue Feb 11 10:39:20 EST 2020
+ProcessKeyBinding 402 when=1581435560171 modifiers=80 code=36 char=36(6) false false
+--------------- 23 --------------
+  Tue Feb 11 10:39:20 EST 2020
+ProcessKeyBinding 401 when=1581435560453 modifiers=80 code=36 char=36(6) false false
+--------------- 24 --------------
+  Tue Feb 11 10:39:20 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 25 --------------
+  Tue Feb 11 10:39:20 EST 2020
+ProcessKeyBinding 400 when=1581435560453 modifiers=80 code=0 char=36(6) false false
+--------------- 26 --------------
+  Tue Feb 11 10:39:20 EST 2020
+ProcessKeyBinding 402 when=1581435560510 modifiers=80 code=36 char=36(6) false false
+--------------- 27 --------------
+  Tue Feb 11 10:39:20 EST 2020
+ProcessKeyBinding 402 when=1581435560699 modifiers=0 code=11 char=ffff false false
+--------------- 28 --------------
+  Tue Feb 11 10:39:25 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 29 --------------
+  Tue Feb 11 10:39:54 EST 2020
+ProcessKeyBinding 401 when=1581435594209 modifiers=80 code=11 char=ffff false false
+--------------- 30 --------------
+  Tue Feb 11 10:39:54 EST 2020
+ProcessKeyBinding 401 when=1581435594496 modifiers=80 code=34 char=34(4) false false
+--------------- 31 --------------
+  Tue Feb 11 10:39:54 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 32 --------------
+  Tue Feb 11 10:39:54 EST 2020
+ProcessKeyBinding 400 when=1581435594496 modifiers=80 code=0 char=34(4) false false
+--------------- 33 --------------
+  Tue Feb 11 10:39:54 EST 2020
+ProcessKeyBinding 402 when=1581435594606 modifiers=80 code=34 char=34(4) false false
+--------------- 34 --------------
+  Tue Feb 11 10:39:54 EST 2020
+ProcessKeyBinding 401 when=1581435594941 modifiers=80 code=34 char=34(4) false false
+--------------- 35 --------------
+  Tue Feb 11 10:39:54 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 36 --------------
+  Tue Feb 11 10:39:55 EST 2020
+ProcessKeyBinding 400 when=1581435594941 modifiers=80 code=0 char=34(4) false false
+--------------- 37 --------------
+  Tue Feb 11 10:39:55 EST 2020
+ProcessKeyBinding 402 when=1581435595046 modifiers=80 code=34 char=34(4) false false
+--------------- 38 --------------
+  Tue Feb 11 10:39:55 EST 2020
+ProcessKeyBinding 402 when=1581435595774 modifiers=0 code=11 char=ffff false false
+--------------- 39 --------------
+  Tue Feb 11 10:40:08 EST 2020
+ProcessKeyBinding 401 when=1581435608263 modifiers=80 code=11 char=ffff false false
+--------------- 40 --------------
+  Tue Feb 11 10:40:08 EST 2020
+ProcessKeyBinding 401 when=1581435608950 modifiers=80 code=34 char=34(4) false false
+--------------- 41 --------------
+  Tue Feb 11 10:40:08 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 42 --------------
+  Tue Feb 11 10:40:08 EST 2020
+ProcessKeyBinding 400 when=1581435608950 modifiers=80 code=0 char=34(4) false false
+--------------- 43 --------------
+  Tue Feb 11 10:40:09 EST 2020
+ProcessKeyBinding 402 when=1581435609055 modifiers=80 code=34 char=34(4) false false
+--------------- 44 --------------
+  Tue Feb 11 10:40:10 EST 2020
+ProcessKeyBinding 402 when=1581435610120 modifiers=0 code=11 char=ffff false false
+--------------- 45 --------------
+  Tue Feb 11 10:41:42 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 46 --------------
+  Tue Feb 11 10:43:42 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 47 --------------
+  Tue Feb 11 10:43:49 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 48 --------------
+  Tue Feb 11 10:44:02 EST 2020
+ProcessKeyBinding 401 when=1581435842648 modifiers=80 code=11 char=ffff false false
+--------------- 49 --------------
+  Tue Feb 11 10:44:03 EST 2020
+ProcessKeyBinding 402 when=1581435843743 modifiers=0 code=11 char=ffff false false
+--------------- 50 --------------
+  Tue Feb 11 10:44:04 EST 2020
+ProcessKeyBinding 401 when=1581435844795 modifiers=80 code=11 char=ffff false false
+--------------- 51 --------------
+  Tue Feb 11 10:44:06 EST 2020
+ProcessKeyBinding 401 when=1581435846450 modifiers=c0 code=10 char=ffff false false
+--------------- 52 --------------
+  Tue Feb 11 10:44:06 EST 2020
+ProcessKeyBinding 402 when=1581435846541 modifiers=80 code=10 char=ffff false false
+--------------- 53 --------------
+  Tue Feb 11 10:44:06 EST 2020
+ProcessKeyBinding 402 when=1581435846879 modifiers=0 code=11 char=ffff false false
+--------------- 54 --------------
+  Tue Feb 11 10:44:08 EST 2020
+ProcessKeyBinding 401 when=1581435848401 modifiers=80 code=11 char=ffff false false
+--------------- 55 --------------
+  Tue Feb 11 10:44:08 EST 2020
+ProcessKeyBinding 401 when=1581435848725 modifiers=80 code=36 char=36(6) false false
+--------------- 56 --------------
+  Tue Feb 11 10:44:08 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 57 --------------
+  Tue Feb 11 10:44:08 EST 2020
+ProcessKeyBinding 400 when=1581435848725 modifiers=80 code=0 char=36(6) false false
+--------------- 58 --------------
+  Tue Feb 11 10:44:08 EST 2020
+ProcessKeyBinding 402 when=1581435848849 modifiers=80 code=36 char=36(6) false false
+--------------- 59 --------------
+  Tue Feb 11 10:44:13 EST 2020
+ProcessKeyBinding 401 when=1581435853901 modifiers=80 code=36 char=36(6) false false
+--------------- 60 --------------
+  Tue Feb 11 10:44:13 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 61 --------------
+  Tue Feb 11 10:44:13 EST 2020
+ProcessKeyBinding 400 when=1581435853901 modifiers=80 code=0 char=36(6) false false
+--------------- 62 --------------
+  Tue Feb 11 10:44:14 EST 2020
+ProcessKeyBinding 402 when=1581435853997 modifiers=80 code=36 char=36(6) false false
+--------------- 63 --------------
+  Tue Feb 11 10:44:14 EST 2020
+ProcessKeyBinding 401 when=1581435854736 modifiers=80 code=36 char=36(6) false false
+--------------- 64 --------------
+  Tue Feb 11 10:44:14 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 65 --------------
+  Tue Feb 11 10:44:14 EST 2020
+ProcessKeyBinding 400 when=1581435854736 modifiers=80 code=0 char=36(6) false false
+--------------- 66 --------------
+  Tue Feb 11 10:44:14 EST 2020
+ProcessKeyBinding 402 when=1581435854870 modifiers=80 code=36 char=36(6) false false
+--------------- 67 --------------
+  Tue Feb 11 10:44:15 EST 2020
+ProcessKeyBinding 402 when=1581435855271 modifiers=0 code=11 char=ffff false false
+--------------- 68 --------------
+  Tue Feb 11 10:44:18 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 69 --------------
+  Tue Feb 11 10:44:29 EST 2020
+ProcessKeyBinding 401 when=1581435869814 modifiers=80 code=11 char=ffff false false
+--------------- 70 --------------
+  Tue Feb 11 10:44:29 EST 2020
+ProcessKeyBinding 401 when=1581435869930 modifiers=80 code=34 char=34(4) false false
+--------------- 71 --------------
+  Tue Feb 11 10:44:29 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 72 --------------
+  Tue Feb 11 10:44:29 EST 2020
+ProcessKeyBinding 400 when=1581435869930 modifiers=80 code=0 char=34(4) false false
+--------------- 73 --------------
+  Tue Feb 11 10:44:30 EST 2020
+ProcessKeyBinding 402 when=1581435870033 modifiers=80 code=34 char=34(4) false false
+--------------- 74 --------------
+  Tue Feb 11 10:44:31 EST 2020
+ProcessKeyBinding 401 when=1581435871149 modifiers=80 code=34 char=34(4) false false
+--------------- 75 --------------
+  Tue Feb 11 10:44:31 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 76 --------------
+  Tue Feb 11 10:44:31 EST 2020
+ProcessKeyBinding 400 when=1581435871149 modifiers=80 code=0 char=34(4) false false
+--------------- 77 --------------
+  Tue Feb 11 10:44:31 EST 2020
+ProcessKeyBinding 402 when=1581435871281 modifiers=80 code=34 char=34(4) false false
+--------------- 78 --------------
+  Tue Feb 11 10:44:32 EST 2020
+ProcessKeyBinding 401 when=1581435872096 modifiers=80 code=35 char=35(5) false false
+--------------- 79 --------------
+  Tue Feb 11 10:44:32 EST 2020
+Menu Activated: Window | Special Pan | Center Cursor
+--------------- 80 --------------
+  Tue Feb 11 10:44:32 EST 2020
+ProcessKeyBinding 400 when=1581435872096 modifiers=80 code=0 char=35(5) false false
+--------------- 81 --------------
+  Tue Feb 11 10:44:32 EST 2020
+ProcessKeyBinding 402 when=1581435872230 modifiers=80 code=35 char=35(5) false false
+--------------- 82 --------------
+  Tue Feb 11 10:44:33 EST 2020
+ProcessKeyBinding 401 when=1581435873248 modifiers=80 code=36 char=36(6) false false
+--------------- 83 --------------
+  Tue Feb 11 10:44:33 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 84 --------------
+  Tue Feb 11 10:44:33 EST 2020
+ProcessKeyBinding 400 when=1581435873248 modifiers=80 code=0 char=36(6) false false
+--------------- 85 --------------
+  Tue Feb 11 10:44:33 EST 2020
+ProcessKeyBinding 402 when=1581435873424 modifiers=80 code=36 char=36(6) false false
+--------------- 86 --------------
+  Tue Feb 11 10:44:33 EST 2020
+ProcessKeyBinding 402 when=1581435873755 modifiers=0 code=11 char=ffff false false
+--------------- 87 --------------
+  Tue Feb 11 10:47:15 EST 2020
+ProcessKeyBinding 401 when=1581436035105 modifiers=80 code=11 char=ffff false false
+--------------- 88 --------------
+  Tue Feb 11 10:47:15 EST 2020
+ProcessKeyBinding 401 when=1581436035377 modifiers=80 code=34 char=34(4) false false
+--------------- 89 --------------
+  Tue Feb 11 10:47:15 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 90 --------------
+  Tue Feb 11 10:47:15 EST 2020
+ProcessKeyBinding 400 when=1581436035377 modifiers=80 code=0 char=34(4) false false
+--------------- 91 --------------
+  Tue Feb 11 10:47:15 EST 2020
+ProcessKeyBinding 402 when=1581436035482 modifiers=80 code=34 char=34(4) false false
+--------------- 92 --------------
+  Tue Feb 11 10:47:16 EST 2020
+ProcessKeyBinding 402 when=1581436036251 modifiers=0 code=11 char=ffff false false
+--------------- 93 --------------
+  Tue Feb 11 10:47:16 EST 2020
+ProcessKeyBinding 401 when=1581436036289 modifiers=80 code=11 char=ffff false false
+--------------- 94 --------------
+  Tue Feb 11 10:47:17 EST 2020
+ProcessKeyBinding 402 when=1581436037404 modifiers=0 code=11 char=ffff false false
+--------------- 95 --------------
+  Tue Feb 11 10:47:19 EST 2020
+ProcessKeyBinding 401 when=1581436039851 modifiers=80 code=11 char=ffff false false
+--------------- 96 --------------
+  Tue Feb 11 10:47:20 EST 2020
+ProcessKeyBinding 401 when=1581436040520 modifiers=80 code=34 char=34(4) false false
+--------------- 97 --------------
+  Tue Feb 11 10:47:20 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 98 --------------
+  Tue Feb 11 10:47:20 EST 2020
+ProcessKeyBinding 400 when=1581436040520 modifiers=80 code=0 char=34(4) false false
+--------------- 99 --------------
+  Tue Feb 11 10:47:20 EST 2020
+ProcessKeyBinding 402 when=1581436040676 modifiers=80 code=34 char=34(4) false false
+--------------- 100 --------------
+  Tue Feb 11 10:47:21 EST 2020
+ProcessKeyBinding 402 when=1581436041249 modifiers=0 code=11 char=ffff false false
+--------------- 101 --------------
+  Tue Feb 11 10:50:57 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 102 --------------
+  Tue Feb 11 10:51:07 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 103 --------------
+  Tue Feb 11 10:51:17 EST 2020
+ProcessKeyBinding 401 when=1581436277319 modifiers=80 code=11 char=ffff false false
+--------------- 104 --------------
+  Tue Feb 11 10:51:17 EST 2020
+ProcessKeyBinding 401 when=1581436277586 modifiers=80 code=36 char=36(6) false false
+--------------- 105 --------------
+  Tue Feb 11 10:51:17 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 106 --------------
+  Tue Feb 11 10:51:17 EST 2020
+ProcessKeyBinding 400 when=1581436277586 modifiers=80 code=0 char=36(6) false false
+--------------- 107 --------------
+  Tue Feb 11 10:51:17 EST 2020
+ProcessKeyBinding 402 when=1581436277697 modifiers=80 code=36 char=36(6) false false
+--------------- 108 --------------
+  Tue Feb 11 10:51:18 EST 2020
+ProcessKeyBinding 401 when=1581436278448 modifiers=80 code=36 char=36(6) false false
+--------------- 109 --------------
+  Tue Feb 11 10:51:18 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 110 --------------
+  Tue Feb 11 10:51:18 EST 2020
+ProcessKeyBinding 400 when=1581436278448 modifiers=80 code=0 char=36(6) false false
+--------------- 111 --------------
+  Tue Feb 11 10:51:18 EST 2020
+ProcessKeyBinding 402 when=1581436278535 modifiers=80 code=36 char=36(6) false false
+--------------- 112 --------------
+  Tue Feb 11 10:51:20 EST 2020
+ProcessKeyBinding 401 when=1581436280724 modifiers=80 code=36 char=36(6) false false
+--------------- 113 --------------
+  Tue Feb 11 10:51:20 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 114 --------------
+  Tue Feb 11 10:51:20 EST 2020
+ProcessKeyBinding 400 when=1581436280724 modifiers=80 code=0 char=36(6) false false
+--------------- 115 --------------
+  Tue Feb 11 10:51:20 EST 2020
+ProcessKeyBinding 402 when=1581436280834 modifiers=80 code=36 char=36(6) false false
+--------------- 116 --------------
+  Tue Feb 11 10:51:22 EST 2020
+ProcessKeyBinding 402 when=1581436282240 modifiers=0 code=11 char=ffff false false
+--------------- 117 --------------
+  Tue Feb 11 10:51:28 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 118 --------------
+  Tue Feb 11 10:51:32 EST 2020
+ProcessKeyBinding 401 when=1581436292549 modifiers=80 code=11 char=ffff false false
+--------------- 119 --------------
+  Tue Feb 11 10:51:34 EST 2020
+ProcessKeyBinding 401 when=1581436294851 modifiers=80 code=36 char=36(6) false false
+--------------- 120 --------------
+  Tue Feb 11 10:51:34 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 121 --------------
+  Tue Feb 11 10:51:34 EST 2020
+ProcessKeyBinding 400 when=1581436294851 modifiers=80 code=0 char=36(6) false false
+--------------- 122 --------------
+  Tue Feb 11 10:51:34 EST 2020
+ProcessKeyBinding 402 when=1581436294956 modifiers=80 code=36 char=36(6) false false
+--------------- 123 --------------
+  Tue Feb 11 10:51:35 EST 2020
+ProcessKeyBinding 401 when=1581436295926 modifiers=80 code=36 char=36(6) false false
+--------------- 124 --------------
+  Tue Feb 11 10:51:35 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 125 --------------
+  Tue Feb 11 10:51:35 EST 2020
+ProcessKeyBinding 400 when=1581436295926 modifiers=80 code=0 char=36(6) false false
+--------------- 126 --------------
+  Tue Feb 11 10:51:36 EST 2020
+ProcessKeyBinding 402 when=1581436296005 modifiers=80 code=36 char=36(6) false false
+--------------- 127 --------------
+  Tue Feb 11 10:51:38 EST 2020
+ProcessKeyBinding 401 when=1581436298310 modifiers=80 code=34 char=34(4) false false
+--------------- 128 --------------
+  Tue Feb 11 10:51:38 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 129 --------------
+  Tue Feb 11 10:51:38 EST 2020
+ProcessKeyBinding 400 when=1581436298310 modifiers=80 code=0 char=34(4) false false
+--------------- 130 --------------
+  Tue Feb 11 10:51:38 EST 2020
+ProcessKeyBinding 402 when=1581436298396 modifiers=80 code=34 char=34(4) false false
+--------------- 131 --------------
+  Tue Feb 11 10:51:38 EST 2020
+ProcessKeyBinding 402 when=1581436298719 modifiers=0 code=11 char=ffff false false
+--------------- 132 --------------
+  Tue Feb 11 10:51:44 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 133 --------------
+  Tue Feb 11 10:52:20 EST 2020
+ProcessKeyBinding 401 when=1581436340378 modifiers=80 code=11 char=ffff false false
+--------------- 134 --------------
+  Tue Feb 11 10:52:20 EST 2020
+ProcessKeyBinding 402 when=1581436340706 modifiers=0 code=11 char=ffff false false
+--------------- 135 --------------
+  Tue Feb 11 10:52:22 EST 2020
+Menu Activated: Edit | Modes | Edit | Toggle Pan
+--------------- 136 --------------
+  Tue Feb 11 10:52:48 EST 2020
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+--------------- 137 --------------
+  Tue Feb 11 10:52:49 EST 2020
+ProcessKeyBinding 401 when=1581436369694 modifiers=80 code=11 char=ffff false false
+--------------- 138 --------------
+  Tue Feb 11 10:52:50 EST 2020
+ProcessKeyBinding 402 when=1581436370058 modifiers=0 code=11 char=ffff false false
+--------------- 139 --------------
+  Tue Feb 11 10:52:50 EST 2020
+ProcessKeyBinding 401 when=1581436370234 modifiers=40 code=10 char=ffff false false
+--------------- 140 --------------
+  Tue Feb 11 10:52:52 EST 2020
+ProcessKeyBinding 402 when=1581436372712 modifiers=0 code=10 char=ffff false false
+--------------- 141 --------------
+  Tue Feb 11 10:52:57 EST 2020
+Menu Activated: Edit | Modes | Edit | Click/Zoom/Wire
+--------------- 142 --------------
+  Tue Feb 11 10:52:58 EST 2020
+Menu Activated: Edit | Modes | Edit | Toggle Pan
+--------------- 143 --------------
+  Tue Feb 11 10:58:31 EST 2020
+ProcessKeyBinding 401 when=1581436711347 modifiers=200 code=12 char=ffff false false
+--------------- 144 --------------
+  Tue Feb 11 11:00:08 EST 2020
+ProcessKeyBinding 401 when=1581436808097 modifiers=200 code=12 char=ffff false false
+--------------- 145 --------------
+  Tue Feb 11 11:04:50 EST 2020
+ProcessKeyBinding 401 when=1581437090715 modifiers=80 code=11 char=ffff false false
+--------------- 146 --------------
+  Tue Feb 11 11:04:51 EST 2020
+ProcessKeyBinding 402 when=1581437091025 modifiers=0 code=11 char=ffff false false
+--------------- 147 --------------
+  Tue Feb 11 11:05:04 EST 2020
+Menu Activated: Edit | Modes | Edit | Click/Zoom/Wire
+--------------- 148 --------------
+  Tue Feb 11 11:05:09 EST 2020
+ProcessKeyBinding 401 when=1581437109420 modifiers=80 code=11 char=ffff false false
+--------------- 149 --------------
+  Tue Feb 11 11:05:13 EST 2020
+ProcessKeyBinding 401 when=1581437112999 modifiers=80 code=44 char=4 false false
+--------------- 150 --------------
+  Tue Feb 11 11:05:13 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'arch_2bus{sch}': , 'ALU{ic}[ALU@0].op[6:0]'
+--------------- 151 --------------
+  Tue Feb 11 11:05:13 EST 2020
+ProcessKeyBinding 400 when=1581437112999 modifiers=80 code=0 char=4 false false
+--------------- 152 --------------
+  Tue Feb 11 11:05:13 EST 2020
+ProcessKeyBinding 402 when=1581437113125 modifiers=80 code=44 char=4 false false
+--------------- 153 --------------
+  Tue Feb 11 11:05:14 EST 2020
+ProcessKeyBinding 402 when=1581437114379 modifiers=0 code=11 char=ffff false false
+--------------- 154 --------------
+  Tue Feb 11 11:05:21 EST 2020
+ProcessKeyBinding 401 when=1581437121529 modifiers=80 code=11 char=ffff false false
+--------------- 155 --------------
+  Tue Feb 11 11:05:21 EST 2020
+ProcessKeyBinding 402 when=1581437121529 modifiers=0 code=11 char=ffff false false
+--------------- 156 --------------
+  Tue Feb 11 11:05:24 EST 2020
+ProcessKeyBinding 401 when=1581437124179 modifiers=80 code=11 char=ffff false false
+--------------- 157 --------------
+  Tue Feb 11 11:05:24 EST 2020
+ProcessKeyBinding 401 when=1581437124802 modifiers=80 code=44 char=4 false false
+--------------- 158 --------------
+  Tue Feb 11 11:05:24 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , bus['net@49']
+--------------- 159 --------------
+  Tue Feb 11 11:05:24 EST 2020
+ProcessKeyBinding 400 when=1581437124802 modifiers=80 code=0 char=4 false false
+--------------- 160 --------------
+  Tue Feb 11 11:05:24 EST 2020
+ProcessKeyBinding 402 when=1581437124915 modifiers=80 code=44 char=4 false false
+--------------- 161 --------------
+  Tue Feb 11 11:05:25 EST 2020
+ProcessKeyBinding 402 when=1581437125904 modifiers=0 code=11 char=ffff false false
+--------------- 162 --------------
+  Tue Feb 11 11:05:33 EST 2020
+ProcessKeyBinding 401 when=1581437133141 modifiers=80 code=11 char=ffff false false
+--------------- 163 --------------
+  Tue Feb 11 11:05:33 EST 2020
+ProcessKeyBinding 401 when=1581437133332 modifiers=80 code=44 char=4 false false
+--------------- 164 --------------
+  Tue Feb 11 11:05:33 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'op_logique32{ic}[op_logiq@0].o[31:0]'
+--------------- 165 --------------
+  Tue Feb 11 11:05:33 EST 2020
+ProcessKeyBinding 400 when=1581437133332 modifiers=80 code=0 char=4 false false
+--------------- 166 --------------
+  Tue Feb 11 11:05:33 EST 2020
+ProcessKeyBinding 402 when=1581437133446 modifiers=80 code=44 char=4 false false
+--------------- 167 --------------
+  Tue Feb 11 11:05:33 EST 2020
+ProcessKeyBinding 402 when=1581437133847 modifiers=0 code=11 char=ffff false false
+--------------- 168 --------------
+  Tue Feb 11 11:05:41 EST 2020
+ProcessKeyBinding 401 when=1581437141914 modifiers=80 code=11 char=ffff false false
+--------------- 169 --------------
+  Tue Feb 11 11:05:42 EST 2020
+ProcessKeyBinding 402 when=1581437142084 modifiers=0 code=11 char=ffff false false
+--------------- 170 --------------
+  Tue Feb 11 11:05:50 EST 2020
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+--------------- 171 --------------
+  Tue Feb 11 11:06:33 EST 2020
+ProcessKeyBinding 401 when=1581437193241 modifiers=80 code=11 char=ffff false false
+--------------- 172 --------------
+  Tue Feb 11 11:06:33 EST 2020
+ProcessKeyBinding 401 when=1581437193830 modifiers=80 code=55 char=15 false false
+--------------- 173 --------------
+  Tue Feb 11 11:06:33 EST 2020
+Menu Activated: Cell | Up Hierarchy
+--------------- 174 --------------
+  Tue Feb 11 11:06:33 EST 2020
+ProcessKeyBinding 400 when=1581437193830 modifiers=80 code=0 char=15 false false
+--------------- 175 --------------
+  Tue Feb 11 11:06:33 EST 2020
+ProcessKeyBinding 402 when=1581437193918 modifiers=80 code=55 char=15 false false
+--------------- 176 --------------
+  Tue Feb 11 11:06:34 EST 2020
+ProcessKeyBinding 402 when=1581437194687 modifiers=0 code=11 char=ffff false false
+--------------- 177 --------------
+  Tue Feb 11 11:06:41 EST 2020
+Menu Activated: Edit | Modes | Edit | Click/Zoom/Wire
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'op_logique32{ic}[op_logiq@0].o[31:0]'
+--------------- 178 --------------
+  Tue Feb 11 11:06:43 EST 2020
+ProcessKeyBinding 401 when=1581437203225 modifiers=80 code=11 char=ffff false false
+--------------- 179 --------------
+  Tue Feb 11 11:06:43 EST 2020
+ProcessKeyBinding 401 when=1581437203495 modifiers=80 code=44 char=4 false false
+--------------- 180 --------------
+  Tue Feb 11 11:06:43 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'add32{ic}[add32@0].sum[31:0]'
+--------------- 181 --------------
+  Tue Feb 11 11:06:43 EST 2020
+ProcessKeyBinding 400 when=1581437203495 modifiers=80 code=0 char=4 false false
+--------------- 182 --------------
+  Tue Feb 11 11:06:43 EST 2020
+ProcessKeyBinding 402 when=1581437203584 modifiers=80 code=44 char=4 false false
+--------------- 183 --------------
+  Tue Feb 11 11:06:44 EST 2020
+ProcessKeyBinding 402 when=1581437204006 modifiers=0 code=11 char=ffff false false
+--------------- 184 --------------
+  Tue Feb 11 11:07:14 EST 2020
+ProcessKeyBinding 401 when=1581437234051 modifiers=80 code=11 char=ffff false false
+--------------- 185 --------------
+  Tue Feb 11 11:07:14 EST 2020
+ProcessKeyBinding 401 when=1581437234293 modifiers=80 code=55 char=15 false false
+--------------- 186 --------------
+  Tue Feb 11 11:07:14 EST 2020
+Menu Activated: Cell | Up Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'add32{sch}': , 'Bus_Pin[pin@124].bus'
+--------------- 187 --------------
+  Tue Feb 11 11:07:14 EST 2020
+ProcessKeyBinding 400 when=1581437234293 modifiers=80 code=0 char=15 false false
+--------------- 188 --------------
+  Tue Feb 11 11:07:14 EST 2020
+ProcessKeyBinding 402 when=1581437234419 modifiers=80 code=55 char=15 false false
+--------------- 189 --------------
+  Tue Feb 11 11:07:14 EST 2020
+ProcessKeyBinding 402 when=1581437234550 modifiers=0 code=11 char=ffff false false
+--------------- 190 --------------
+  Tue Feb 11 11:07:16 EST 2020
+ProcessKeyBinding 401 when=1581437236980 modifiers=80 code=11 char=ffff false false
+--------------- 191 --------------
+  Tue Feb 11 11:07:17 EST 2020
+ProcessKeyBinding 401 when=1581437237359 modifiers=80 code=44 char=4 false false
+--------------- 192 --------------
+  Tue Feb 11 11:07:17 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'mux32bit{ic}[mux32bit@0].o[31:0]'
+--------------- 193 --------------
+  Tue Feb 11 11:07:17 EST 2020
+ProcessKeyBinding 400 when=1581437237359 modifiers=80 code=0 char=4 false false
+--------------- 194 --------------
+  Tue Feb 11 11:07:17 EST 2020
+ProcessKeyBinding 402 when=1581437237490 modifiers=80 code=44 char=4 false false
+--------------- 195 --------------
+  Tue Feb 11 11:07:17 EST 2020
+ProcessKeyBinding 402 when=1581437237741 modifiers=0 code=11 char=ffff false false
+--------------- 196 --------------
+  Tue Feb 11 11:07:21 EST 2020
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'mux32bit{sch}': , 'Bus_Pin[pin@11].bus'
+--------------- 197 --------------
+  Tue Feb 11 11:07:43 EST 2020
+ProcessKeyBinding 401 when=1581437263665 modifiers=80 code=11 char=ffff false false
+--------------- 198 --------------
+  Tue Feb 11 11:07:43 EST 2020
+ProcessKeyBinding 401 when=1581437263930 modifiers=80 code=55 char=15 false false
+--------------- 199 --------------
+  Tue Feb 11 11:07:43 EST 2020
+Menu Activated: Cell | Up Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'mux32bit{sch}': , 'Bus_Pin[pin@11].bus'
+--------------- 200 --------------
+  Tue Feb 11 11:07:43 EST 2020
+ProcessKeyBinding 400 when=1581437263930 modifiers=80 code=0 char=15 false false
+--------------- 201 --------------
+  Tue Feb 11 11:07:44 EST 2020
+ProcessKeyBinding 402 when=1581437264031 modifiers=80 code=55 char=15 false false
+--------------- 202 --------------
+  Tue Feb 11 11:07:44 EST 2020
+ProcessKeyBinding 402 when=1581437264133 modifiers=0 code=11 char=ffff false false
+--------------- 203 --------------
+  Tue Feb 11 11:07:48 EST 2020
+Menu Activated: Edit | Modes | Edit | Click/Zoom/Wire
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'mux32bit{ic}[mux32bit@0].o[31:0]'
+--------------- 204 --------------
+  Tue Feb 11 11:08:09 EST 2020
+ProcessKeyBinding 401 when=1581437289631 modifiers=80 code=11 char=ffff false false
+--------------- 205 --------------
+  Tue Feb 11 11:08:10 EST 2020
+ProcessKeyBinding 401 when=1581437290377 modifiers=80 code=44 char=4 false false
+--------------- 206 --------------
+  Tue Feb 11 11:08:10 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'mux32bit{ic}[mux32bit@0].o[31:0]'
+--------------- 207 --------------
+  Tue Feb 11 11:08:10 EST 2020
+ProcessKeyBinding 400 when=1581437290377 modifiers=80 code=0 char=4 false false
+--------------- 208 --------------
+  Tue Feb 11 11:08:10 EST 2020
+ProcessKeyBinding 402 when=1581437290488 modifiers=80 code=44 char=4 false false
+--------------- 209 --------------
+  Tue Feb 11 11:08:10 EST 2020
+ProcessKeyBinding 402 when=1581437290781 modifiers=0 code=11 char=ffff false false
+--------------- 210 --------------
+  Tue Feb 11 11:08:12 EST 2020
+ProcessKeyBinding 401 when=1581437292085 modifiers=80 code=11 char=ffff false false
+--------------- 211 --------------
+  Tue Feb 11 11:08:12 EST 2020
+ProcessKeyBinding 401 when=1581437292769 modifiers=80 code=55 char=15 false false
+--------------- 212 --------------
+  Tue Feb 11 11:08:12 EST 2020
+Menu Activated: Cell | Up Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'mux32bit{sch}': , 'Bus_Pin[pin@11].bus'
+--------------- 213 --------------
+  Tue Feb 11 11:08:12 EST 2020
+ProcessKeyBinding 400 when=1581437292769 modifiers=80 code=0 char=15 false false
+--------------- 214 --------------
+  Tue Feb 11 11:08:12 EST 2020
+ProcessKeyBinding 402 when=1581437292864 modifiers=80 code=55 char=15 false false
+--------------- 215 --------------
+  Tue Feb 11 11:08:13 EST 2020
+ProcessKeyBinding 402 when=1581437293177 modifiers=0 code=11 char=ffff false false
+--------------- 216 --------------
+  Tue Feb 11 11:08:15 EST 2020
+ProcessKeyBinding 401 when=1581437295087 modifiers=80 code=11 char=ffff false false
+--------------- 217 --------------
+  Tue Feb 11 11:08:15 EST 2020
+ProcessKeyBinding 401 when=1581437295806 modifiers=80 code=44 char=4 false false
+--------------- 218 --------------
+  Tue Feb 11 11:08:15 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'shift32{ic}[shift32@0].i[31:0]'
+--------------- 219 --------------
+  Tue Feb 11 11:08:15 EST 2020
+ProcessKeyBinding 400 when=1581437295806 modifiers=80 code=0 char=4 false false
+--------------- 220 --------------
+  Tue Feb 11 11:08:15 EST 2020
+ProcessKeyBinding 402 when=1581437295927 modifiers=80 code=44 char=4 false false
+--------------- 221 --------------
+  Tue Feb 11 11:08:16 EST 2020
+ProcessKeyBinding 402 when=1581437296604 modifiers=0 code=11 char=ffff false false
+--------------- 222 --------------
+  Tue Feb 11 11:09:28 EST 2020
+ProcessKeyBinding 401 when=1581437368909 modifiers=80 code=11 char=ffff false false
+--------------- 223 --------------
+  Tue Feb 11 11:09:30 EST 2020
+ProcessKeyBinding 401 when=1581437370081 modifiers=80 code=5a char=1a false false
+--------------- 224 --------------
+  Tue Feb 11 11:09:30 EST 2020
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'shift32{sch}': , 'Bus_Pin[pin@1].bus'
+--------------- 225 --------------
+  Tue Feb 11 11:09:30 EST 2020
+ProcessKeyBinding 400 when=1581437370081 modifiers=80 code=0 char=1a false false
+--------------- 226 --------------
+  Tue Feb 11 11:09:30 EST 2020
+ProcessKeyBinding 402 when=1581437370166 modifiers=80 code=5a char=1a false false
+--------------- 227 --------------
+  Tue Feb 11 11:09:30 EST 2020
+ProcessKeyBinding 402 when=1581437370970 modifiers=0 code=11 char=ffff false false
+--------------- 228 --------------
+  Tue Feb 11 11:09:33 EST 2020
+ProcessKeyBinding 401 when=1581437373330 modifiers=480 code=11 char=ffff false false
+--------------- 229 --------------
+  Tue Feb 11 11:09:33 EST 2020
+ProcessKeyBinding 402 when=1581437373708 modifiers=0 code=11 char=ffff false false
+--------------- 230 --------------
+  Tue Feb 11 11:09:33 EST 2020
+ProcessKeyBinding 401 when=1581437373748 modifiers=80 code=11 char=ffff false false
+--------------- 231 --------------
+  Tue Feb 11 11:09:33 EST 2020
+ProcessKeyBinding 401 when=1581437373829 modifiers=80 code=55 char=15 false false
+--------------- 232 --------------
+  Tue Feb 11 11:09:33 EST 2020
+Menu Activated: Cell | Up Hierarchy
+--------------- 233 --------------
+  Tue Feb 11 11:09:33 EST 2020
+ProcessKeyBinding 400 when=1581437373829 modifiers=80 code=0 char=15 false false
+--------------- 234 --------------
+  Tue Feb 11 11:09:33 EST 2020
+ProcessKeyBinding 402 when=1581437373936 modifiers=80 code=55 char=15 false false
+--------------- 235 --------------
+  Tue Feb 11 11:09:34 EST 2020
+ProcessKeyBinding 402 when=1581437374372 modifiers=0 code=11 char=ffff false false
+--------------- 236 --------------
+  Tue Feb 11 11:10:12 EST 2020
+ProcessKeyBinding 401 when=1581437412340 modifiers=80 code=11 char=ffff false false
+--------------- 237 --------------
+  Tue Feb 11 11:10:12 EST 2020
+ProcessKeyBinding 401 when=1581437412979 modifiers=80 code=44 char=4 false false
+--------------- 238 --------------
+  Tue Feb 11 11:10:12 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'and32{ic}[and32@0].a[31:0]'
+--------------- 239 --------------
+  Tue Feb 11 11:10:13 EST 2020
+ProcessKeyBinding 400 when=1581437412979 modifiers=80 code=0 char=4 false false
+--------------- 240 --------------
+  Tue Feb 11 11:10:13 EST 2020
+ProcessKeyBinding 402 when=1581437413071 modifiers=80 code=44 char=4 false false
+--------------- 241 --------------
+  Tue Feb 11 11:10:13 EST 2020
+ProcessKeyBinding 402 when=1581437413465 modifiers=0 code=11 char=ffff false false
+--------------- 242 --------------
+  Tue Feb 11 11:10:18 EST 2020
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'and32{sch}': , 'Bus_Pin[pin@96].bus'
+--------------- 243 --------------
+  Tue Feb 11 11:10:34 EST 2020
+ProcessKeyBinding 401 when=1581437434848 modifiers=80 code=11 char=ffff false false
+--------------- 244 --------------
+  Tue Feb 11 11:10:37 EST 2020
+ProcessKeyBinding 402 when=1581437437613 modifiers=0 code=11 char=ffff false false
+--------------- 245 --------------
+  Tue Feb 11 11:10:42 EST 2020
+ProcessKeyBinding 401 when=1581437442039 modifiers=80 code=11 char=ffff false false
+--------------- 246 --------------
+  Tue Feb 11 11:10:42 EST 2020
+ProcessKeyBinding 401 when=1581437442402 modifiers=80 code=44 char=4 false false
+--------------- 247 --------------
+  Tue Feb 11 11:10:42 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'and32{sch}': , 'Bus_Pin[pin@96].bus'
+--------------- 248 --------------
+  Tue Feb 11 11:10:42 EST 2020
+ProcessKeyBinding 400 when=1581437442402 modifiers=80 code=0 char=4 false false
+--------------- 249 --------------
+  Tue Feb 11 11:10:42 EST 2020
+ProcessKeyBinding 402 when=1581437442495 modifiers=80 code=44 char=4 false false
+--------------- 250 --------------
+  Tue Feb 11 11:10:43 EST 2020
+ProcessKeyBinding 401 when=1581437443596 modifiers=80 code=55 char=15 false false
+--------------- 251 --------------
+  Tue Feb 11 11:10:43 EST 2020
+Menu Activated: Cell | Up Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'and32{sch}': , 'Bus_Pin[pin@96].bus'
+--------------- 252 --------------
+  Tue Feb 11 11:10:43 EST 2020
+ProcessKeyBinding 400 when=1581437443596 modifiers=80 code=0 char=15 false false
+--------------- 253 --------------
+  Tue Feb 11 11:10:43 EST 2020
+ProcessKeyBinding 402 when=1581437443690 modifiers=80 code=55 char=15 false false
+--------------- 254 --------------
+  Tue Feb 11 11:10:44 EST 2020
+ProcessKeyBinding 402 when=1581437444093 modifiers=0 code=11 char=ffff false false
+--------------- 255 --------------
+  Tue Feb 11 11:12:53 EST 2020
+Menu Activated: Edit | Modes | Edit | Click/Zoom/Wire
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'and32{ic}[and32@0].a[31:0]'
+--------------- 256 --------------
+  Tue Feb 11 11:12:55 EST 2020
+ProcessKeyBinding 401 when=1581437575013 modifiers=80 code=11 char=ffff false false
+--------------- 257 --------------
+  Tue Feb 11 11:12:55 EST 2020
+ProcessKeyBinding 402 when=1581437575899 modifiers=0 code=11 char=ffff false false
+--------------- 258 --------------
+  Tue Feb 11 11:12:59 EST 2020
+ProcessKeyBinding 401 when=1581437579248 modifiers=80 code=11 char=ffff false false
+--------------- 259 --------------
+  Tue Feb 11 11:12:59 EST 2020
+ProcessKeyBinding 401 when=1581437579464 modifiers=80 code=44 char=4 false false
+--------------- 260 --------------
+  Tue Feb 11 11:12:59 EST 2020
+Menu Activated: Cell | Down Hierarchy | Down Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'op_logique32{ic}[op_logiq@0].b[31:0]'
+--------------- 261 --------------
+  Tue Feb 11 11:12:59 EST 2020
+ProcessKeyBinding 400 when=1581437579464 modifiers=80 code=0 char=4 false false
+--------------- 262 --------------
+  Tue Feb 11 11:12:59 EST 2020
+ProcessKeyBinding 402 when=1581437579548 modifiers=80 code=44 char=4 false false
+--------------- 263 --------------
+  Tue Feb 11 11:12:59 EST 2020
+ProcessKeyBinding 402 when=1581437579731 modifiers=0 code=11 char=ffff false false
+--------------- 264 --------------
+  Tue Feb 11 11:13:02 EST 2020
+Menu Activated: Edit | Modes | Edit | Toggle Zoom
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'op_logique32{sch}': , 'Bus_Pin[pin@306].bus'
+--------------- 265 --------------
+  Tue Feb 11 11:14:24 EST 2020
+ProcessKeyBinding 401 when=1581437664604 modifiers=80 code=11 char=ffff false false
+--------------- 266 --------------
+  Tue Feb 11 11:14:24 EST 2020
+ProcessKeyBinding 401 when=1581437664900 modifiers=80 code=55 char=15 false false
+--------------- 267 --------------
+  Tue Feb 11 11:14:24 EST 2020
+Menu Activated: Cell | Up Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'op_logique32{sch}': , 'Bus_Pin[pin@306].bus'
+--------------- 268 --------------
+  Tue Feb 11 11:14:24 EST 2020
+ProcessKeyBinding 400 when=1581437664900 modifiers=80 code=0 char=15 false false
+--------------- 269 --------------
+  Tue Feb 11 11:14:25 EST 2020
+ProcessKeyBinding 402 when=1581437665014 modifiers=80 code=55 char=15 false false
+--------------- 270 --------------
+  Tue Feb 11 11:14:25 EST 2020
+ProcessKeyBinding 402 when=1581437665335 modifiers=0 code=11 char=ffff false false
+--------------- 271 --------------
+  Tue Feb 11 11:16:18 EST 2020
+ProcessKeyBinding 401 when=1581437778084 modifiers=200 code=12 char=ffff false false
+--------------- 272 --------------
+  Tue Feb 11 11:16:18 EST 2020
+ProcessKeyBinding 401 when=1581437778645 modifiers=200 code=12 char=ffff false false
+--------------- 273 --------------
+  Tue Feb 11 11:23:00 EST 2020
+Menu Activated: Edit | Modes | Edit | Click/Zoom/Wire
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'op_logique32{ic}[op_logiq@0].b[31:0]'
+--------------- 274 --------------
+  Tue Feb 11 11:23:01 EST 2020
+ProcessKeyBinding 401 when=1581438181798 modifiers=80 code=11 char=ffff false false
+--------------- 275 --------------
+  Tue Feb 11 11:23:02 EST 2020
+ProcessKeyBinding 401 when=1581438182133 modifiers=80 code=55 char=15 false false
+--------------- 276 --------------
+  Tue Feb 11 11:23:02 EST 2020
+Menu Activated: Cell | Up Hierarchy
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'ALU{sch}': , 'op_logique32{ic}[op_logiq@0].b[31:0]'
+--------------- 277 --------------
+  Tue Feb 11 11:23:02 EST 2020
+ProcessKeyBinding 400 when=1581438182133 modifiers=80 code=0 char=15 false false
+--------------- 278 --------------
+  Tue Feb 11 11:23:02 EST 2020
+ProcessKeyBinding 402 when=1581438182234 modifiers=80 code=55 char=15 false false
+--------------- 279 --------------
+  Tue Feb 11 11:23:02 EST 2020
+ProcessKeyBinding 402 when=1581438182497 modifiers=0 code=11 char=ffff false false
+--------------- 280 --------------
+  Tue Feb 11 11:23:55 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | ALS: Simulate Current Cell
+--------------- 281 --------------
+  Tue Feb 11 11:24:05 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Restore Stimuli from Disk...
+--------------- 282 --------------
+  Tue Feb 11 11:24:22 EST 2020
+ProcessKeyBinding 401 when=1581438262394 modifiers=80 code=11 char=ffff false false
+--------------- 283 --------------
+  Tue Feb 11 11:24:23 EST 2020
+ProcessKeyBinding 401 when=1581438263939 modifiers=80 code=36 char=36(6) false false
+--------------- 284 --------------
+  Tue Feb 11 11:24:23 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 285 --------------
+  Tue Feb 11 11:24:23 EST 2020
+ProcessKeyBinding 400 when=1581438263939 modifiers=80 code=0 char=36(6) false false
+--------------- 286 --------------
+  Tue Feb 11 11:24:24 EST 2020
+ProcessKeyBinding 402 when=1581438264079 modifiers=80 code=36 char=36(6) false false
+--------------- 287 --------------
+  Tue Feb 11 11:24:24 EST 2020
+ProcessKeyBinding 401 when=1581438264338 modifiers=80 code=36 char=36(6) false false
+--------------- 288 --------------
+  Tue Feb 11 11:24:24 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 289 --------------
+  Tue Feb 11 11:24:24 EST 2020
+ProcessKeyBinding 400 when=1581438264338 modifiers=80 code=0 char=36(6) false false
+--------------- 290 --------------
+  Tue Feb 11 11:24:24 EST 2020
+ProcessKeyBinding 402 when=1581438264424 modifiers=80 code=36 char=36(6) false false
+--------------- 291 --------------
+  Tue Feb 11 11:24:24 EST 2020
+ProcessKeyBinding 401 when=1581438264726 modifiers=80 code=36 char=36(6) false false
+--------------- 292 --------------
+  Tue Feb 11 11:24:24 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 293 --------------
+  Tue Feb 11 11:24:24 EST 2020
+ProcessKeyBinding 400 when=1581438264726 modifiers=80 code=0 char=36(6) false false
+--------------- 294 --------------
+  Tue Feb 11 11:24:24 EST 2020
+ProcessKeyBinding 402 when=1581438264796 modifiers=80 code=36 char=36(6) false false
+--------------- 295 --------------
+  Tue Feb 11 11:24:26 EST 2020
+ProcessKeyBinding 401 when=1581438266165 modifiers=80 code=36 char=36(6) false false
+--------------- 296 --------------
+  Tue Feb 11 11:24:26 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 297 --------------
+  Tue Feb 11 11:24:26 EST 2020
+ProcessKeyBinding 400 when=1581438266165 modifiers=80 code=0 char=36(6) false false
+--------------- 298 --------------
+  Tue Feb 11 11:24:26 EST 2020
+ProcessKeyBinding 402 when=1581438266254 modifiers=80 code=36 char=36(6) false false
+--------------- 299 --------------
+  Tue Feb 11 11:24:27 EST 2020
+ProcessKeyBinding 401 when=1581438267612 modifiers=80 code=34 char=34(4) false false
+--------------- 300 --------------
+  Tue Feb 11 11:24:27 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 301 --------------
+  Tue Feb 11 11:24:27 EST 2020
+ProcessKeyBinding 400 when=1581438267612 modifiers=80 code=0 char=34(4) false false
+--------------- 302 --------------
+  Tue Feb 11 11:24:27 EST 2020
+ProcessKeyBinding 402 when=1581438267720 modifiers=80 code=34 char=34(4) false false
+--------------- 303 --------------
+  Tue Feb 11 11:24:28 EST 2020
+ProcessKeyBinding 402 when=1581438268222 modifiers=0 code=11 char=ffff false false
+--------------- 304 --------------
+  Tue Feb 11 11:24:35 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 305 --------------
+  Tue Feb 11 11:24:37 EST 2020
+ProcessKeyBinding 401 when=1581438277036 modifiers=80 code=11 char=ffff false false
+--------------- 306 --------------
+  Tue Feb 11 11:24:37 EST 2020
+ProcessKeyBinding 401 when=1581438277565 modifiers=80 code=36 char=36(6) false false
+--------------- 307 --------------
+  Tue Feb 11 11:24:37 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 308 --------------
+  Tue Feb 11 11:24:37 EST 2020
+ProcessKeyBinding 400 when=1581438277565 modifiers=80 code=0 char=36(6) false false
+--------------- 309 --------------
+  Tue Feb 11 11:24:37 EST 2020
+ProcessKeyBinding 402 when=1581438277651 modifiers=80 code=36 char=36(6) false false
+--------------- 310 --------------
+  Tue Feb 11 11:24:37 EST 2020
+ProcessKeyBinding 401 when=1581438277817 modifiers=80 code=36 char=36(6) false false
+--------------- 311 --------------
+  Tue Feb 11 11:24:37 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 312 --------------
+  Tue Feb 11 11:24:37 EST 2020
+ProcessKeyBinding 400 when=1581438277817 modifiers=80 code=0 char=36(6) false false
+--------------- 313 --------------
+  Tue Feb 11 11:24:37 EST 2020
+ProcessKeyBinding 402 when=1581438277893 modifiers=80 code=36 char=36(6) false false
+--------------- 314 --------------
+  Tue Feb 11 11:24:43 EST 2020
+ProcessKeyBinding 401 when=1581438283496 modifiers=80 code=34 char=34(4) false false
+--------------- 315 --------------
+  Tue Feb 11 11:24:43 EST 2020
+Menu Activated: Window | Pan Left
+--------------- 316 --------------
+  Tue Feb 11 11:24:43 EST 2020
+ProcessKeyBinding 400 when=1581438283496 modifiers=80 code=0 char=34(4) false false
+--------------- 317 --------------
+  Tue Feb 11 11:24:43 EST 2020
+ProcessKeyBinding 402 when=1581438283610 modifiers=80 code=34 char=34(4) false false
+--------------- 318 --------------
+  Tue Feb 11 11:24:44 EST 2020
+ProcessKeyBinding 401 when=1581438284349 modifiers=80 code=36 char=36(6) false false
+--------------- 319 --------------
+  Tue Feb 11 11:24:44 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 320 --------------
+  Tue Feb 11 11:24:44 EST 2020
+ProcessKeyBinding 400 when=1581438284349 modifiers=80 code=0 char=36(6) false false
+--------------- 321 --------------
+  Tue Feb 11 11:24:44 EST 2020
+ProcessKeyBinding 402 when=1581438284474 modifiers=80 code=36 char=36(6) false false
+--------------- 322 --------------
+  Tue Feb 11 11:24:44 EST 2020
+ProcessKeyBinding 401 when=1581438284586 modifiers=80 code=36 char=36(6) false false
+--------------- 323 --------------
+  Tue Feb 11 11:24:44 EST 2020
+Menu Activated: Window | Pan Right
+--------------- 324 --------------
+  Tue Feb 11 11:24:44 EST 2020
+ProcessKeyBinding 400 when=1581438284586 modifiers=80 code=0 char=36(6) false false
+--------------- 325 --------------
+  Tue Feb 11 11:24:44 EST 2020
+ProcessKeyBinding 402 when=1581438284662 modifiers=80 code=36 char=36(6) false false
+--------------- 326 --------------
+  Tue Feb 11 11:24:45 EST 2020
+ProcessKeyBinding 402 when=1581438285841 modifiers=0 code=11 char=ffff false false
+--------------- 327 --------------
+  Tue Feb 11 11:24:51 EST 2020
+Menu Activated: Tool | Simulation (Built-in) | Update Simulation Window
+--------------- 328 --------------
+  Sun Feb 16 14:08:33 EST 2020
+ProcessKeyBinding 401 when=1581439749581 modifiers=200 code=12 char=ffff false false
