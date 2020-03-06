@@ -8,7 +8,7 @@
 func_s:	
 	/* Votre programme assembleur ici... */
 
-	mov $0,%edx
+	movl $0,%edx
 	jmp condition
 
 boucle:
