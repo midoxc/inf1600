@@ -39,7 +39,7 @@ public:
    virtual std::string Name() const;
 
 private:
-
+   
    float radius_;
    float height_;
 };
