@@ -10,7 +10,7 @@ _ZNK9Rectangle7AreaAsmEv:
         fld %eax
         fld %edx
         fmulp /* L'aire total du rectangle est dans %eax et %edx*/
-        
+        fstp %eax /* Aire total dans %eax */
         
         
         leave          /* restore ebp and esp */
