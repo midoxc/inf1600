@@ -5,16 +5,17 @@ _ZNK8Cylinder9VolumeAsmEv:
         mov %esp, %ebp /* set ebp to current esp */
         
         mov 8(%ebp), %ebx
-        mov 4(%ebx), %eax /* Pour la rayon */
-        mov 8 (%ebx), %edx
-        fld %eax
-        fld %eax
-        fmulp
-        fldpi
-        fmulp /* Pi*r'2 est dans %eax */
-        fld %edx
-        fmulp  /*Multiplication avec la hauteur */
-        fstp %eax /* La valeur du volume est dans eax */
+        mov (%ebx), %edx
+        mov 32(%edx), %eax
+        push %ebx
+        call *%eax
+        fld %eax          /* Base area */
         
+        mov 8(%ebp), %ebx
+        mov 4(%ebx), %edx /* height */
+        fld %edx
+        fmulp
+        fstp %eax
+       
         leave          /* restore ebp and esp */
         ret            /* return to the caller */
