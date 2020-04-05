@@ -7,15 +7,18 @@ _ZNK8Cylinder12PerimeterAsmEv:
         mov %esp, %ebp /* set ebp to current esp */
         
         mov 8(%ebp), %ebx
-        mov 4(%ebx), %eax /* Pour la Rayon */
-        mov 8(%ebx), %edx /* Pour le Hauteur */
-        fld %eax
-        fld %eax
-        faddp /* Le diamètre total*/
-        fld %edx
+        /* Pour le Rayon */
+        /* Pour le Hauteur */
+        flds 4(%ebx)
+        flds 4(%ebx)     /* Avant on avait mis fld %eax */
+        faddp           /* Le diamètre total*/
+        flds 8(%ebx)    /* Avant on vait mis fld %edx */
         fldpi
         fmulp
-        fstp %eax /* Perimetre total dans %eax */
+        sub $4,%esp
+
+        fstps (%esp)    /* Perimetre total dans %eax */
+        pop %eax
         
         leave          /* restore ebp and esp */
         ret            /* return to the caller */
