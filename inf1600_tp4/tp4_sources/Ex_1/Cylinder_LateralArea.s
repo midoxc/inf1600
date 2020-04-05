@@ -14,7 +14,8 @@ _ZNK8Cylinder14LateralAreaAsmEv:
         fmulp  /*Multiplication avec Pi */
         mov %eax, 2 /* Apparition de la valeur 2 */
         fld %eax 
-        fmulp   /* La valeur de l'aire est dans eax (2Pirh) */
+        fmulp 
+        fstp %eax /* La valeur de l'aire est dans eax (2Pirh) */
        
         
         leave          /* restore ebp and esp */
