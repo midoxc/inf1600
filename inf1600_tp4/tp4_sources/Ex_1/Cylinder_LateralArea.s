@@ -6,7 +6,7 @@ _ZNK8Cylinder14LateralAreaAsmEv:
         
         mov 8(%ebp), %ebx
         mov (%ebx),%edx
-        mov 8(%edx),%eax
+        mov 12(%edx),%eax
         push %ebx
         call *%eax
         
