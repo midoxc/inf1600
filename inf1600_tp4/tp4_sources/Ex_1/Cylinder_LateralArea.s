@@ -5,15 +5,19 @@ _ZNK8Cylinder14LateralAreaAsmEv:
         mov %esp, %ebp /* set ebp to current esp */
         
         mov 8(%ebp), %ebx
-        mov 4(%ebx), %eax /* Pour la hauteur */
-        mov 8(%ebx), %edx /* Pour le rayon */
-        fld %eax
+        mov (%ebx),%edx
+        mov 8(%edx),%eax
+        push %ebx
+        call *%eax
+        
+        mov 8(%ebp),%ebx
+        mov 4(%ebx),%edx
         fld %edx
+        fld %eax
         fmulp
-        fldpi
-        fmulp  /*Multiplication avec Pi */
-        faddp
-        fstp %edx /* La valeur de l'aire est dans edx (2Pirh) */
+       
+        fstp %eax 
+       
        
         
         leave          /* restore ebp and esp */
