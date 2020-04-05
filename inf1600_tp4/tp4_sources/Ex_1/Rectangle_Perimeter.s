@@ -11,12 +11,11 @@ _ZNK9Rectangle12PerimeterAsmEv:
         mov 8 (%ebx), %edx /* Pour la largeur */
         fld %eax
         fld %eax
-        faddp       /* Calcul de la longueur totale */ 
+        faddp       /*  2 * Longueur */ 
         fld %edx
+        faddp       /* 2 * Longueur + largeur */ 
         fld %edx
-        faddp       /* Calcul de la largeur totale */    
-        fld %eax
-        faddp           
+        faddp       /* 2 (Longueur + largeur) */
         fsqrt %eax /* Le perimetre total est dans eax */
         
         leave          /* restore ebp and esp */
