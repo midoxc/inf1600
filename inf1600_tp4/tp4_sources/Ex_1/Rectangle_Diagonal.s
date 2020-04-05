@@ -10,6 +10,7 @@ _ZNK9Rectangle11DiagonalAsmEv:
         fld %eax
         fld %eax
         fmulp 
+        fstp %eax
         fld %edx
         fld %edx
         fmulp
