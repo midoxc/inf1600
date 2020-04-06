@@ -9,7 +9,8 @@ _ZNK8Cylinder7AreaAsmEv:
         mov 32(%eax), %edx
         push %ebx
         call *%edx /* Base area */
-        fld %eax
+        push %eax
+        fld (%esp)
         
         mov 8(%ebp),%ebx
         mov (%ebx), %eax

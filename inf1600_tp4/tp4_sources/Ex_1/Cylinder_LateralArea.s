@@ -5,20 +5,19 @@ _ZNK8Cylinder14LateralAreaAsmEv:
         mov %esp, %ebp /* set ebp to current esp */
         
         mov 8(%ebp), %ebx
-        mov (%ebx),%edx
-        mov 12(%edx),%eax
+        mov (%ebx),%edx     /* pointeur de vtable */
+        mov 12(%edx),%eax   /* Cylinder::perimeterAsm */
         push %ebx
         call *%eax
         
+        push %eax
         mov 8(%ebp),%ebx
-        mov 4(%ebx),%edx
-        fld %edx
-        fld %eax
+        fld 4(%ebx)     
+        fld (%esp)
         fmulp
        
-        fstp %eax 
-       
-       
+        fstp (%esp)       
+        pop %eax
         
         leave          /* restore ebp and esp */
         ret            /* return to the caller */
