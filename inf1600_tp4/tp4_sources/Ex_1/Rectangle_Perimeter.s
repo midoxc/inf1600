@@ -7,17 +7,11 @@ _ZNK9Rectangle12PerimeterAsmEv:
         mov %esp, %ebp /* set ebp to current esp */
         
         mov 8 (%ebp), %ebx
-        lea 4 (%ebx) ,%eax /* Pour la longueur */
-        lea 8 (%ebx), %edx /* Pour la largeur */
-        fld %eax
-        fld %eax
-        faddp       /*  2 * Longueur */ 
-        fld %edx
-        faddp       /* 2 * Longueur + largeur */ 
-        fld %edx
-        faddp       /* 2 (Longueur + largeur) */
-        fsqrt
-        fstp %eax /* Le perimetre total est dans eax */
-        
+        fld 4 (%ebx) /* Pour la longueur */
+        fld 8 (%ebx) /* Pour la largeur */
+        faddp       /* Longueur + largeur */ 
+        fld (factor)
+        fmulp       /* 2 * (Longueur + largeur) */ 
+
         leave          /* restore ebp and esp */
         ret            /* return to the caller */

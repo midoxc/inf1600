@@ -5,20 +5,20 @@ _ZNK9Rectangle11DiagonalAsmEv:
         mov %esp, %ebp /* set ebp to current esp */
         
         mov 8 (%ebp), %ebx
-        mov 4 (%ebx),%eax /*Pour la longueur*/
-        mov 8 (%ebx),%edx /*Pour la largeur*/
-        fld %eax
-        fld %eax
-        fmulp 
-        fstp %eax
-        fld %edx
-        fld %edx
+        fld 4 (%ebx) /* Pour la longueur */
+        fld 4 (%ebx)
         fmulp
-        fld %eax
+
+        sub $4, %esp
+        fstp (%esp) /* on garde le résultat sur la stack */
+        fld 8 (%ebx) /* Pour la largeur */
+        fld 8 (%ebx)
+        fmulp 
+
+        fld (%esp) /* on remet lautre résultat */
         faddp
         fsqrt
-        fstp %eax /*La valeur de la diagonale va etre dans eax*/
-        
         
         leave          /* restore ebp and esp */
         ret            /* return to the caller */
+        

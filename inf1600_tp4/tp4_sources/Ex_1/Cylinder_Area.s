@@ -6,21 +6,25 @@ _ZNK8Cylinder7AreaAsmEv:
         
         mov 8(%ebp), %ebx
         mov (%ebx), %eax
-        mov 32(%eax), %edx
+        mov 24(%eax), %edx      /* Cylinder::baseAreaAsm() */
         push %ebx
-        call *%edx /* Base area */
-        push %eax
-        fld (%esp)
+        call *%edx      /* Base area */
+
+        /* le résultat se trouve dans st[0] */
+
+        fstp -4(%ebp) /* on écrase le pointeur de fonction par notre résultat */
         
         mov 8(%ebp),%ebx
         mov (%ebx), %eax
-        mov 40(%eax), %edx
+        mov 32(%eax), %edx      /* Cylinder::LateralAreaAsm() */
         push %ebx
         call *%edx
-        fld %eax /* Lat. area */
-        
+        add $4, %esp 
+
+        /* le résultat se trouve dans st[0] */
+
+        fld -4(%ebp) /* on reprend le résultat */
         faddp
-        fstp %eax
-    
+
         leave          /* restore ebp and esp */
         ret            /* return to the caller */

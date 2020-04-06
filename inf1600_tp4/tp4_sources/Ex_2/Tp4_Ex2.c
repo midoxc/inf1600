@@ -4,23 +4,15 @@
 unsigned int change_endianness(unsigned int x)
 {
 	unsigned int y;
-
-	/*
-	 * Remplacez le code suivant par de l'assembleur en ligne
-	 * en utilisant le moins d'instructions possible
-	 */
-	y = ( x & 0xff000000 ) >> 24 | (x & 0x00ff0000) >> 8 |
-        ( x & 0x0000ff00 ) <<  8 | (x & 0x000000ff) << 24;
-	 
 	
-    /*
 	asm volatile (
-		// instructions...
-		: // sorties (s'il y a lieu)
-		: // entrées
-		: // registres modifiés (s'il y a lieu)
+		"movl %1, %%ebx;"
+		"bswap %%ebx;"
+		"movl %%ebx, %0;"
+		: "=r" (y) // sorties (s'il y a lieu)
+		: "r" (x) // entrées
+		: "%ebx" // registres modifiés (s'il y a lieu)
 	);
-    */
     
 	return y;
 }

@@ -5,13 +5,11 @@ _ZNK9Rectangle7AreaAsmEv:
         mov %esp, %ebp /* set ebp to current esp */
         
         mov 8 (%ebp),%ebx
-        mov 4 (%ebx),%eax  /* Pour la longueur */
-        mov 8 (%ebx),%edx  /* Pour la largeur */
-        fld %eax
-        fld %edx
-        fmulp /* L'aire total du rectangle est dans %eax et %edx*/
-        fstp %eax /* Aire total dans %eax */
-        
+        fld 4 (%ebx) /* Pour la longueur */
+        fld 8 (%ebx) /* Pour la largeur */
+        fmulp /* Longueur * largeur */
+
+        /* le résultat doit rester sur la stack */
         
         leave          /* restore ebp and esp */
         ret            /* return to the caller */

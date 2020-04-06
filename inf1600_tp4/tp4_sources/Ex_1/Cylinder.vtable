@@ -9,3 +9,15 @@ Cylinder::_ZTV8Cylinder: 11u entries
 32    (int (*)(...))Cylinder::BaseAreaAsm
 36    (int (*)(...))Cylinder::LateralAreaCpp
 40    (int (*)(...))Cylinder::LateralAreaAsm
+
+
+/* REAL VTABLE */
+0     (int (*)(...))Cylinder::PerimeterCpp
+4     (int (*)(...))Cylinder::PerimeterAsm
+8     (int (*)(...))Cylinder::AreaCpp
+12    (int (*)(...))Cylinder::AreaAsm
+16    (int (*)(...))Cylinder::Name
+20    (int (*)(...))Cylinder::BaseAreaCpp
+24    (int (*)(...))Cylinder::BaseAreaAsm
+28    (int (*)(...))Cylinder::LateralAreaCpp
+32    (int (*)(...))Cylinder::LateralAreaAsm

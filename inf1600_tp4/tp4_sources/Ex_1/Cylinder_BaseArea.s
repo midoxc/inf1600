@@ -5,16 +5,13 @@ _ZNK8Cylinder11BaseAreaAsmEv:
         mov %esp, %ebp /* set ebp to current esp */
         
         mov 8(%ebp), %ebx /* le pointeur de la classe */
+        
         fld 4(%ebx) /* radius_ */
-
         fld 4(%ebx)
         fmulp           /* radius_ * radius_ */
+        
         fldpi
-        fmulp           /* resultat * pi */
-
-        sub 4, %esp
-        fstp ($esp)     /* on retourne le résultat dans %eax en passant par la stack */
-        pop %eax        
+        fmulp           /* resultat * pi */   
         
         leave          /* restore ebp and esp */
         ret            /* return to the caller */
